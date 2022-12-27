@@ -34,6 +34,7 @@ export const zhNavbar = navbar([
     text: "数据分析",
     icon: "info",
     children: [
+      { text: "BI", icon: "edit", link: "http://bi.roc.games/" },
       { text: "实时分析", icon: "edit", link: "https://sls.console.aliyun.com/lognext/project/event-tracking-sg-adjust/dashboard/dashboard-1669828265494-919302?isShare=true&readOnly=true&hideTopbar=true&hideSidebar=true&hiddenAppBread=true&hiddenPSql=true&hiddenEtl=true" },
       { text: "留存数据", icon: "edit", link: "https://sls.console.aliyun.com/lognext/project/event-tracking-sg-adjust/dashboard/dashboard-1670831161182-476824?isShare=true&readOnly=true&hideTopbar=true&hideSidebar=true&hiddenAppBread=true&hiddenPSql=true&hiddenEtl=true" },
     ],
