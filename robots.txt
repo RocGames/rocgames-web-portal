@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://www.roc.games/sitemap.xml
+Sitemap: https://roc.games/sitemap.xml
