@@ -39,10 +39,15 @@ export const enNavbar = navbar([
   {
     text: "Data Portal",
     icon: "eye",
+    link: "https://bi-ap-southeast-1.data.aliyun.com/product/analysis.htm",
+  },
+  {
+    text: "Data Portal（ADJust）",
+    icon: "eye",
     link: "https://bi-ap-southeast-1.data.aliyun.com/product/rocgames.htm",
   },
   {
-    text: "My Space",
+    text: "GM Tools",
     icon: "at",
     link: "https://m.roc.games/",
   },

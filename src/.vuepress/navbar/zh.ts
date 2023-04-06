@@ -43,7 +43,12 @@ export const zhNavbar = navbar([
   {
     text: "数据门户",
     icon: "eye",
-    link: "https://bi-ap-southeast-1.data.aliyun.com/product/rocgames.htm",
+    link: "https://bi-ap-southeast-1.data.aliyun.com/product/analysis.htm",
+  },
+  {
+    text: "数据门户(旧版)",
+    icon: "eye",
+    link: "https://bi-ap-southeast-1.data.aliyun.com/product/analysis.htm",
   },
   {
     text: "管理中心",
